@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-        Minimize incidents and improve productivity
+         #Fique em casa fique seguro
         </p>
         <p className='footer-subscription-text'>
         Avoid downtime, data loss and security breaches at a lower cost
