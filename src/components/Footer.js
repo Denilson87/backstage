@@ -11,7 +11,7 @@ function Footer() {
          #Fique em casa fique seguro
         </p>
         <p className='footer-subscription-text'>
-        Avoid downtime, data loss and security breaches at a lower cost
+        Visite sempre o nosso portal e receba as mais recentes atualizações 
         </p>
         <div className='input-areas'>
           <form>
