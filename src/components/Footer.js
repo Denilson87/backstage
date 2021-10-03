@@ -32,7 +32,6 @@ function Footer() {
             <Link to='/'>Mais Dicas</Link>
             <Link to='/'>lorem inpsum</Link>
             <Link to='/'>lorem inpsum</Link>
-           
           </div>
           <div class='footer-link-items'>
             <h2>Get started</h2>
